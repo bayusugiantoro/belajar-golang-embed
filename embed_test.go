@@ -1,4 +1,4 @@
-package belajar_golang_embed
+package main_test
 
 import (
 	"embed"
